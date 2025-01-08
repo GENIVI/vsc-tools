@@ -13,7 +13,7 @@ def get_template_files():
 
 
 setup(name='ifex',
-      version='0.1',
+      version='1.4',
       description='Interface Exchange Framework (IFEX) tools',
       author='',
       author_email='',
